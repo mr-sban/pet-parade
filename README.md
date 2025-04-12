@@ -4,8 +4,6 @@ A personal project to learn game development with our favourite companions.
 You just went flat broke on that latest horse race. Denied the perfect prize winning poodle by the tribulations of your finances, but you've got a gumption to pamper every pet your town can provide; but I don't reckon this one will be a *walk in the park.*
 
 ## The Plan
-Unsure of specific game engine to use at the moment. Likely will be unity or godot.
-
 - Walks: After you pick up your furry friend you can meander around town as you please, some dogs will prefer a routine in time or specific routes. These routes can be plotted on the map for easy navigation around the neighborhood.
 - House sitting: Come over to a clients house to watch the place and their little friends while they're out. Featuring far more animal types, each with differing routines.
 ### Features
